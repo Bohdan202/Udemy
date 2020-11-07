@@ -9,7 +9,7 @@ let personalMovieDB = {
   movies: {},
   actors: {},
   genres: [],
-  privat: false
+  privat: false 
 };
 
 /* Третье задание */
